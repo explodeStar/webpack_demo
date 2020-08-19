@@ -1,0 +1,9 @@
+body {
+    background: #999999;
+}
+
+#root div {
+    width: 200px;
+    margin-top: 50px;
+    transform: rotate(45deg);
+}
